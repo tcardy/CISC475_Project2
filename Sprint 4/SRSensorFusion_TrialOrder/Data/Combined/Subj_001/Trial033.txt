@@ -1,0 +1,2 @@
+Condition: EC	SR percentage: 0.25	Threshold: 0.000000
+0.000000	-0.000000
