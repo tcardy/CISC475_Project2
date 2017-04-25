@@ -1,0 +1,2 @@
+Condition: EO	SR percentage: 0.50	Threshold: 0.000000
+0.000000	-0.000000
