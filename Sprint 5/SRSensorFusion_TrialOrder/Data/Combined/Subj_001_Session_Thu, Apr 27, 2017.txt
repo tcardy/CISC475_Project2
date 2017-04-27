@@ -1,0 +1,96 @@
+Trial Number: 1
+Test Type:  Vestibular
+Average Voltage: 0.000201
+Round 1 or 2: 1.00
+Eye Condition: EC
+SR Percentage: 0.75
+
+
+Trial Number: 2
+Test Type:  Proprioception
+Average Voltage: 0.000016
+Round 1 or 2: 2.00
+Eye Condition: EC
+SR Percentage: 0.50
+
+
+Trial Number: 3
+Test Type:  Proprioception
+Average Voltage: 0.000190
+Round 1 or 2: 1.00
+Eye Condition: EO
+SR Percentage: 0.50
+
+
+Trial Number: 4
+Test Type:  Proprioception
+Average Voltage: -0.000531
+Round 1 or 2: 1.00
+Eye Condition: EO
+SR Percentage: 0.75
+
+
+Trial Number: 6
+Test Type:  Vestibular
+Average Voltage: -0.000143
+Round 1 or 2: 2.00
+Eye Condition: EO
+SR Percentage: 0.75
+
+
+Trial Number: 1
+Test Type:  Vestibular
+Average Voltage: -0.000066
+Round 1 or 2: 1.00
+Eye Condition: EC
+SR Percentage: 0.75
+
+
+Trial Number: 2
+Test Type:  Proprioception
+Average Voltage: 0.000356
+Round 1 or 2: 2.00
+Eye Condition: EC
+SR Percentage: 0.50
+
+
+Trial Number: 3
+Test Type:  Proprioception
+Average Voltage: -0.000338
+Round 1 or 2: 1.00
+Eye Condition: EO
+SR Percentage: 0.50
+
+
+Trial Number: 4
+Test Type:  Proprioception
+Average Voltage: -0.000386
+Round 1 or 2: 1.00
+Eye Condition: EO
+SR Percentage: 0.75
+
+
+Trial Number: 5
+Test Type:  Proprioception
+Average Voltage: 0.000633
+Round 1 or 2: 2.00
+Eye Condition: EO
+SR Percentage: 0.90
+
+
+Trial Number: 1
+Test Type:  Vestibular
+Average Voltage: 0.000056
+Round 1 or 2: 1.00
+Eye Condition: EC
+SR Percentage: 0.75
+
+
+Trial Number: 2
+Test Type:  Proprioception
+Average Voltage: 0.000060
+Round 1 or 2: 2.00
+Eye Condition: EC
+SR Percentage: 0.50
+
+
